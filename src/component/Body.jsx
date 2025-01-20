@@ -70,3 +70,6 @@ export default function Body() {
         </div>
     );
 }
+
+
+// 배우는게 없는거같음 자스가 더 어려운듯
